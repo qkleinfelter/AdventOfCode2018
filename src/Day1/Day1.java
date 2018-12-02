@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Author: Quinn Kleinfelter
  * Started coding at: 8EST
  * Completed at: 8:24EST
- * Code time elapsed:
+ * Code time elapsed: 24 minutes
  */
 public class Day1 {
 
