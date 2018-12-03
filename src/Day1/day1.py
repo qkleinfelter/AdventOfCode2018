@@ -1,6 +1,5 @@
 import itertools
 
-
 data = [int(x) for x in open("C:/Users/Quinn/Documents/GitHub/AdventOfCode2018/src/Day1/day1input.txt")]
 
 print(sum(data))
