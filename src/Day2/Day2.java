@@ -1,7 +1,5 @@
 package Day2;
 
-import com.sun.xml.internal.bind.v2.util.EditDistance;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
